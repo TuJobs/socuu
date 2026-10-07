@@ -12,7 +12,7 @@ Sổ tay sơ cứu (“ứng dụng”) do Tu Nguyen phát triển, dùng trên 
 ## Dữ liệu chỉ lưu trên máy của bạn
 
 - **Thông tin y tế của tôi**: họ tên, năm sinh, nhóm máu, dị ứng, bệnh nền, thuốc đang dùng, ghi chú và người liên hệ khẩn cấp do bạn tự nhập. Trên iPhone, iPad, tệp này được hệ điều hành mã hóa khi máy đang khóa.
-- **Bài yêu thích, điểm ôn tập và các câu đã trả lời sai.**
+- **Bài yêu thích, bài xem gần đây, điểm ôn tập và các câu đã trả lời sai.**
 
 Những dữ liệu này không rời khỏi máy. Xóa ứng dụng là xóa hết.
 
@@ -52,7 +52,7 @@ Last updated: 7 October 2026
 
 Sổ tay sơ cứu is developed by Tu Nguyen for iPhone, iPad and Android. The app **does not collect** any personal data. Nothing is sent to a server or shared with anyone.
 
-- **Stored on your device only**: the medical information you enter yourself (name, year of birth, blood type, allergies, conditions, medications, notes, emergency contacts), favorite guides and quiz results. On iPhone and iPad, the medical information file is encrypted by the system while the device is locked. Deleting the app deletes all of it.
+- **Stored on your device only**: the medical information you enter yourself (name, year of birth, blood type, allergies, conditions, medications, notes, emergency contacts), favorite and recently viewed guides, and quiz results. On iPhone and iPad, the medical information file is encrypted by the system while the device is locked. Deleting the app deletes all of it.
 - **Location** is used only while the app is open and only with your permission, to show your address so you can read it to the emergency operator. To turn coordinates into an address, the device sends them to the operating system’s map service (Apple on iPhone and iPad, Google on Android) under their privacy policies. The developer never receives your location. It is shared with someone else only when you tap **Chia sẻ vị trí** (Share location) and choose a recipient.
 - **Calls**: the call buttons only open the Phone app with the number filled in.
 - **No** accounts, ads, analytics, tracking or automatic crash reporting.
